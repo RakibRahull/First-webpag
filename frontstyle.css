@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(170, 94, 241);
+}
+#first{
+    font-size: 80px;
+    color: black;
+    line-height: 2px;
+}
+#second{
+    color: black;
+    line-height: 2px;
+
+}
+
+
+#two{
+    height:500px;
+    width:500px;   
+}
+#one{
+    height: 700px;
+    width: 700px;
+
+}
+#tin{
+    height: 700px;
+    width: 700px;
+}
+#char{
+    height: 700px;
+    weight: 600px;
+}
+#pach{
+    height: 700px;
+    weight: 600px;
+}
+
